@@ -1,0 +1,25 @@
+body {
+    background: #0d0d0d;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding: 40px;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+    background: yellow;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: lightgreen;
+    display: block;
+    margin: 10px;
+}
