@@ -1,3 +1,4 @@
-downloads/
-outputs/
+backend/downloads/
+backend/outputs/
 *.mp4
+ffmpeg
